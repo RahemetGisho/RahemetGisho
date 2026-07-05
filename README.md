@@ -1,5 +1,6 @@
  <h1>Hi 👋, I'm Rahmet</h1>
-<p>Software Engineer passionate about Generative AI, RAG systems, Data Engineering and Analytics</p>
+ <p>Generative AI Engineer | Data Engineer</p>
+<p>I have a passion of learning and sharing my knowledge. I’m currently learning and developing my skills Generative AI engineering</p>
 <h2>Connect with me:</h2></h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/rahemet-gisho-15a081300/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://medium.com/@rahmahussen"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
